@@ -6,11 +6,18 @@
 |재연|✅|💣|
 |기돈|✅||
 |주희|✅||
+|참관 세민님|💗||
 
 # 1회차
--- 나눈 것들 --  
--- 이슈 링크(퀴즈) --  
--- 참고하면 좋을 자료들 --  
+<a href="https://github.com/ooheunda/how-to-enjoy/issues/1">이번 회차 퀴즈 보러가기</a>  
+
+📌 **keyword**  
+    **`호이스팅` `리터럴` `변수 선언` `실행 컨텍스트`**
+
+- `var` 와 `let`, `const` 키워드 간 호이스팅 차이점
+  - <a href="https://taenami.tistory.com/87">let과 const도 호이스팅이 될까? TDZ란? </a>
+  - <a href="https://ui.toast.com/weekly-pick/ko_20191014">TDZ(Temporal Dead Zone) 더 알아보기</a>
+  
 
 ## 분량
 
