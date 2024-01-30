@@ -13,8 +13,9 @@
 
 📌 **keyword**  
     **`호이스팅` `리터럴` `변수 선언` `실행 컨텍스트`**
+<hr>
 
-- `var` 와 `let`, `const` 키워드 간 호이스팅 차이점
+### - `var` 와 `let`, `const` 키워드 간 호이스팅 차이점
   - <a href="https://taenami.tistory.com/87">let과 const도 호이스팅이 될까? TDZ란? </a>
   - <a href="https://ui.toast.com/weekly-pick/ko_20191014">TDZ(Temporal Dead Zone) 더 알아보기</a>
   
