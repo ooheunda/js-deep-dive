@@ -1,10 +1,10 @@
 |이름|출석|퀴즈 담당|
 |:--:|:--:|:--:|
-|다은||💣|
-|하온|||
-|재연||💣|
-|기돈|||
-|세민||💣|
+|다은|✅|💣|
+|하온|✅||
+|재연|✅|💣|
+|기돈|✅||
+|세민|✅|💣|
 
 # 13회차
 <a href="https://github.com/ooheunda/how-to-enjoy/issues/13">이번 회차 퀴즈 보러가기</a>  
@@ -37,7 +37,7 @@
     ____30.1.1 new Date()  
     ____30.1.2 new Date(milliseconds)  
     ____30.1.3 new Date(dateString)  
-    ____30.1.4 new Date(year, month, day, hour, minute, second, millisecond])  
+    ____30.1.4 new Date(year, month, day, hour, minute, second, millisecond)  
   - 30.2 Date 메서드  
     ____30.2.1 Date.now  
     ____30.2.2 Date.parse  
