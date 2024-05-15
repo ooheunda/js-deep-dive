@@ -11,7 +11,7 @@
 <a href="https://github.com/ooheunda/how-to-enjoy/issues/20">이번 회차 퀴즈 보러가기</a>  
 
 📌 **keyword**  
-    **``**
+    **`이벤트 전파`**, **`이벤트 위임`**, **`이벤트 어트리뷰트`**, **`이벤트 프로퍼티`**, **`addEventListener`**, **`캡쳐링`**, **`버블링`**
 
 <hr> 
 
