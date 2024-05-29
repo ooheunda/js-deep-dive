@@ -10,10 +10,8 @@
 <a href="https://github.com/ooheunda/how-to-enjoy/issues/11">이번 회차 퀴즈 보러가기</a>  
 
 📌 **keyword**  
-    **``**
+    **`this 바인딩`** **`화살표 함수`** **`arguments`** **`rest 파라미터`** **`[[HomeObject]]`** **`lexical this`** **`Array.prototype.reduce`**
 <hr> 
-
-### - 
   
 
 ## 분량

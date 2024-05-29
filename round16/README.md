@@ -10,11 +10,15 @@
 <a href="https://github.com/ooheunda/how-to-enjoy/issues/16">이번 회차 퀴즈 보러가기</a>  
 
 📌 **keyword**  
-    **``**
+    **`마이크로 태스크 큐`** **`후속처리 메서드(then, catch, finally)`** **`Promise.allSettled vs Promise.race`** **`콜백지옥`**
 
 <hr> 
 
-### - 
+### - 갑자기 XML 이야기...
+   - [XML과 HTML 차이](https://aws.amazon.com/ko/compare/the-difference-between-html-and-xml/)  
+   - [XML과 JSON 차이](https://aws.amazon.com/ko/compare/the-difference-between-json-xml/)
+   - [XMLHttpRequest란?](https://despiteallthat.tistory.com/149)
+### - [Task와 Microtask](https://baeharam.netlify.app/posts/javascript/JS-Task%EC%99%80-Microtask%EC%9D%98-%EB%8F%99%EC%9E%91%EB%B0%A9%EC%8B%9D)
   
 
 ## 분량

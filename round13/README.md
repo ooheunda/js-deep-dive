@@ -10,11 +10,9 @@
 <a href="https://github.com/ooheunda/how-to-enjoy/issues/13">이번 회차 퀴즈 보러가기</a>  
 
 📌 **keyword**  
-    **``**
+    **`ES6`**
 <hr> 
 
-### - 
-  
 
 ## 분량
 

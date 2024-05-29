@@ -1,21 +1,20 @@
 |이름|출석|퀴즈 담당|
 |:--:|:--:|:--:|
-|다은|||
-|하온|||
-|재연|||
-|기돈|||
-|세민|||
-💣
+|다은|✅||
+|하온|✅|💣|
+|재연|✅|💣|
+|기돈|✅||
+|세민|✅||
 
 # 19회차
 <a href="https://github.com/ooheunda/how-to-enjoy/issues/19">이번 회차 퀴즈 보러가기</a>  
 
 📌 **keyword**  
-    **``**
+    **`XSS`** **`텍스트 노드`** **`요소 노드`** **`돔 토큰 리스트`** **`HTML 어트리뷰트`**
 
 <hr> 
 
-### - 
+### - [XSS(Cross-Site Scripting)](https://www.fis.kr/ko/major_biz/cyber_safety_oper/attack_info/security_news?articleSeq=3408)
   
 
 ## 분량

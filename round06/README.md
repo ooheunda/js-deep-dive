@@ -11,10 +11,10 @@
 <a href="https://github.com/ooheunda/how-to-enjoy/issues/6">이번 회차 퀴즈 보러가기</a>  
 
 📌 **keyword**  
-    **``**
+    **`프로토타입`** **`생성자 함수`** **`프로토타입 체인`** **`상속`** **`오버라이딩`** **`__proto__`**
 <hr> 
 
-### - 
+### - [상속과 프로토타입 MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
   
 
 ## 분량

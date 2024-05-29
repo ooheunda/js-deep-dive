@@ -10,10 +10,8 @@
 <a href="https://github.com/ooheunda/how-to-enjoy/issues/8">이번 회차 퀴즈 보러가기</a>  
 
 📌 **keyword**  
-    **``**
+    **`실행 컨텍스트`** **`렉시컬 환경`** **`Array prototype`** **`Array.of`** **`Array.from`**
 <hr> 
-
-### - 
   
 
 ## 분량

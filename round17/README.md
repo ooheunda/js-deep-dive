@@ -10,11 +10,9 @@
 <a href="https://github.com/ooheunda/how-to-enjoy/issues/17">이번 회차 퀴즈 보러가기</a>  
 
 📌 **keyword**  
-    **``**
+    **`제너레이터`** **`ESM`** **`에러 전파`**
 
 <hr> 
-
-### - 
   
 
 ## 분량

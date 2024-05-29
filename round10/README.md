@@ -10,11 +10,8 @@
 <a href="https://github.com/ooheunda/how-to-enjoy/issues/10">이번 회차 퀴즈 보러가기</a>  
 
 📌 **keyword**  
-    **``**
+    **`Super`** **`constructor`** **`extends`** **`생성자 함수와 클래스 차이`** **`접근자 프로퍼티`** **`인스턴스 프로퍼티`** **`정적 메서드`** **`동적 상속`** **`new.target`**
 <hr> 
-
-### - 
-  
 
 ## 분량
 

@@ -11,10 +11,8 @@
 <a href="https://github.com/ooheunda/how-to-enjoy/issues/7">이번 회차 퀴즈 보러가기</a>  
 
 📌 **keyword**  
-    **``**
+    **`빌트인 전역 객체`** **`global this`** **`래퍼 객체`** **`호스트 객체`** **`strict mode`** **`사용자 정의 객체`** **`암묵적 전역`** **`린트 도구`** **`encodeURI/decodeURI`** **`this 바인딩`** **`eval()`**
 <hr> 
-
-### - 
   
 
 ## 분량
