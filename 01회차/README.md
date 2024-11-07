@@ -12,7 +12,7 @@
 - [Web API](https://developer.mozilla.org/ko/docs/Web/API) vs [Node API](https://nodejs.org/api/n-api.html)
 - [ES6 지원 브라우저 표](https://compat-table.github.io/compat-table/es6/)
 
-## [퀴즈](https://github.com/ooheunda/how-to-enjoy/issues/1)
+## [퀴즈](https://github.com/ooheunda/js-deep-dive/issues/1)
 
 ### 재연
 

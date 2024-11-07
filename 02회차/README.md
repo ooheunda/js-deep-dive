@@ -11,7 +11,7 @@
 - [Object.is](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Object/is)
 - [이스케이프 시퀀스](https://learn.microsoft.com/ko-kr/cpp/c-language/escape-sequences)
 
-## [퀴즈](https://github.com/ooheunda/how-to-enjoy/issues/2)
+## [퀴즈](https://github.com/ooheunda/js-deep-dive/issues/2)
 
 ### 하온
 
